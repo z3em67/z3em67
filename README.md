@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=z3em67&icon=0&color=0" alt="views" />
+<img src="https://hits.sh/github.com/z3em67.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=181717" alt="views" />
 <img src="https://img.shields.io/github/followers/z3em67?style=for-the-badge&logo=github&color=181717" alt="followers" />
 <img src="https://img.shields.io/github/stars/z3em67?style=for-the-badge&logo=github&color=f5c542" alt="stars" />
 
@@ -84,11 +84,15 @@ const abdelrahman = {
 <br/>
 
 <!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 Trophies
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=z3em67&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+<img src="https://img.shields.io/badge/Learning-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Building-REST_APIs-404d59?style=for-the-badge&logo=express&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Databases-MongoDB_%26_MySQL-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="Databases" />
+<img src="https://img.shields.io/badge/Practicing-Problem_Solving-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Goal-Backend_Developer-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Goal" />
 
 </div>
 
