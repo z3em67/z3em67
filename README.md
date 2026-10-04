@@ -1,17 +1,17 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdelrahman%20Elsayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20in%20the%20Making&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdelrahman%20Elsayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Abdelrahman;CS+Student+%26+Web+Developer;Learning+Node.js+%26+Backend;Building+real-world+projects;Goal%3A+Professional+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Abdelrahman;CS+Student+%26+Full+Stack+Developer;React+%2B+Node.js+%2B+Databases;Building+real-world+web+applications;Goal%3A+Professional+Full+Stack+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://hits.sh/github.com/z3em67.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=181717" alt="views" />
-<img src="https://img.shields.io/github/followers/z3em67?style=for-the-badge&logo=github&color=181717" alt="followers" />
-<img src="https://img.shields.io/github/stars/z3em67?style=for-the-badge&logo=github&color=f5c542" alt="stars" />
+<img src="https://hits.sh/github.com/z3em67.svg?style=flat-square&label=Profile%20Views&color=2f81f7&labelColor=161b22" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/z3em67?style=flat-square&label=Followers&logo=github&logoColor=white&labelColor=161b22&color=2f81f7" alt="Followers" />
+<img src="https://img.shields.io/github/stars/z3em67?style=flat-square&label=Stars&logo=github&logoColor=white&labelColor=161b22&color=2f81f7" alt="Stars" />
 
 </div>
 
@@ -20,25 +20,19 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 💫 About Me
 
-```js
-const abdelrahman = {
-  role: "CS Student & Web Developer 👨‍💻",
-  currentlyLearning: ["Node.js", "Backend Architecture", "Databases"],
-  building: "Small real-world projects 🚀",
-  improving: "Problem Solving 🧠",
-  favoriteLanguages: ["JavaScript", "Python"],
-  mindset: "Always learning something new 🛠",
-  goal: "Become a professional Backend Developer 🎯",
-};
-```
+I'm a **Computer Science student and web developer** focused on becoming a professional **Full Stack Engineer**. I enjoy building complete web applications, from responsive interfaces to the APIs and databases that power them, and I'm currently deepening my backend skills with Node.js while keeping my frontend sharp.
 
-<br/>
+I learn by building small, real-world projects and by steadily improving my problem-solving and engineering fundamentals.
 
-- 🔭 **Working on:** real-world projects that sharpen my backend skills
-- 🌱 **Learning:** Node.js, Express, REST APIs, MongoDB & MySQL
-- 🧩 **Practicing:** data structures, algorithms & problem solving
-- 💬 **Ask me about:** JavaScript, Python, web development
-- ⚡ **Fun fact:** I turn coffee into code ☕
+| | |
+|---|---|
+| 🎓 **Background** | Computer Science student |
+| 💼 **Role Focus** | Full Stack Web Development |
+| 🖥️ **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| ⚙️ **Backend** | Node.js, Express, REST APIs |
+| 🗄️ **Databases** | MongoDB, MySQL |
+| 🧠 **Strengthening** | Data structures, algorithms & problem solving |
+| 💬 **Happy to talk about** | JavaScript, Python, web development |
 
 <br/>
 
@@ -88,11 +82,11 @@ const abdelrahman = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Learning-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Building-REST_APIs-404d59?style=for-the-badge&logo=express&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Databases-MongoDB_%26_MySQL-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="Databases" />
-<img src="https://img.shields.io/badge/Practicing-Problem_Solving-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving" />
-<img src="https://img.shields.io/badge/Goal-Backend_Developer-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Goal" />
+<img src="https://img.shields.io/badge/Frontend-React_%26_Next.js-161b22?style=flat-square&labelColor=2f81f7&logo=react&logoColor=white" alt="Frontend" />
+<img src="https://img.shields.io/badge/Backend-Node.js_%26_Express-161b22?style=flat-square&labelColor=2f81f7&logo=node.js&logoColor=white" alt="Backend" />
+<img src="https://img.shields.io/badge/Databases-MongoDB_%26_MySQL-161b22?style=flat-square&labelColor=2f81f7&logo=mongodb&logoColor=white" alt="Databases" />
+<img src="https://img.shields.io/badge/Fundamentals-Algorithms_%26_Problem_Solving-161b22?style=flat-square&labelColor=2f81f7&logo=leetcode&logoColor=white" alt="Fundamentals" />
+<img src="https://img.shields.io/badge/Goal-Full_Stack_Engineer-161b22?style=flat-square&labelColor=2f81f7&logo=rocket&logoColor=white" alt="Goal" />
 
 </div>
 
