@@ -9,9 +9,11 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/z3em67.svg?style=flat-square&label=Profile%20Views&color=2f81f7&labelColor=161b22" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/z3em67?style=flat-square&label=Followers&logo=github&logoColor=white&labelColor=161b22&color=2f81f7" alt="Followers" />
-<img src="https://img.shields.io/github/stars/z3em67?style=flat-square&label=Stars&logo=github&logoColor=white&labelColor=161b22&color=2f81f7" alt="Stars" />
+<img height="48" src="https://hits.sh/github.com/z3em67.svg?style=for-the-badge&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=00c2ff&labelColor=1a1a2e" alt="Profile views" />
+&nbsp;
+<img height="48" src="https://img.shields.io/github/followers/z3em67?style=for-the-badge&label=%F0%9F%92%96%20FOLLOWERS&labelColor=1a1a2e&color=ff4d94" alt="Followers" />
+&nbsp;
+<img height="48" src="https://img.shields.io/github/stars/z3em67?style=for-the-badge&label=%E2%AD%90%20STARS&labelColor=1a1a2e&color=ffb703" alt="Stars" />
 
 </div>
 
@@ -20,19 +22,37 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 💫 About Me
 
-I'm a **Computer Science student and web developer** focused on becoming a professional **Full Stack Engineer**. I enjoy building complete web applications, from responsive interfaces to the APIs and databases that power them, and I'm currently deepening my backend skills with Node.js while keeping my frontend sharp.
+<div align="center">
 
-I learn by building small, real-world projects and by steadily improving my problem-solving and engineering fundamentals.
+<h1>✨ Hello, I'm Abdelrahman ✨</h1>
 
-| | |
-|---|---|
-| 🎓 **Background** | Computer Science student |
-| 💼 **Role Focus** | Full Stack Web Development |
-| 🖥️ **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| ⚙️ **Backend** | Node.js, Express, REST APIs |
-| 🗄️ **Databases** | MongoDB, MySQL |
-| 🧠 **Strengthening** | Data structures, algorithms & problem solving |
-| 💬 **Happy to talk about** | JavaScript, Python, web development |
+<h2>🎓 CS Student &nbsp;◆&nbsp; 💻 Full Stack Developer &nbsp;◆&nbsp; 🚀 Builder</h2>
+
+<h3>◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇</h3>
+
+<h3>I turn ideas into complete web applications 🌟<br/>
+from beautiful, responsive interfaces 🎨<br/>
+to fast APIs and reliable databases ⚙️🗄️</h3>
+
+<h3>I learn by building real-world projects 🛠️<br/>
+and sharpening my problem-solving every single day 🧠</h3>
+
+<h3>◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇</h3>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>🎨</h2><h3>Frontend</h3><b>HTML · CSS · JavaScript<br/>TypeScript · React · Next.js</b></td>
+    <td align="center" width="33%"><h2>⚙️</h2><h3>Backend</h3><b>Node.js · Express<br/>REST APIs</b></td>
+    <td align="center" width="33%"><h2>🗄️</h2><h3>Databases</h3><b>MongoDB · MySQL</b></td>
+  </tr>
+  <tr>
+    <td align="center"><h2>🧠</h2><h3>Problem Solving</h3><b>Data Structures<br/>Algorithms</b></td>
+    <td align="center"><h2>💬</h2><h3>Let's Talk About</h3><b>JavaScript · Python<br/>Web Development</b></td>
+    <td align="center"><h2>🎯</h2><h3>My Goal</h3><b>Professional<br/>Full Stack Engineer</b></td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -82,11 +102,13 @@ I learn by building small, real-world projects and by steadily improving my prob
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React_%26_Next.js-161b22?style=flat-square&labelColor=2f81f7&logo=react&logoColor=white" alt="Frontend" />
-<img src="https://img.shields.io/badge/Backend-Node.js_%26_Express-161b22?style=flat-square&labelColor=2f81f7&logo=node.js&logoColor=white" alt="Backend" />
-<img src="https://img.shields.io/badge/Databases-MongoDB_%26_MySQL-161b22?style=flat-square&labelColor=2f81f7&logo=mongodb&logoColor=white" alt="Databases" />
-<img src="https://img.shields.io/badge/Fundamentals-Algorithms_%26_Problem_Solving-161b22?style=flat-square&labelColor=2f81f7&logo=leetcode&logoColor=white" alt="Fundamentals" />
-<img src="https://img.shields.io/badge/Goal-Full_Stack_Engineer-161b22?style=flat-square&labelColor=2f81f7&logo=rocket&logoColor=white" alt="Goal" />
+<img height="48" src="https://img.shields.io/badge/FRONTEND-React_%26_Next.js-00d4ff?style=for-the-badge&labelColor=1a1a2e&logo=react&logoColor=00d4ff" alt="Frontend" />
+<img height="48" src="https://img.shields.io/badge/BACKEND-Node.js_%26_Express-22c55e?style=for-the-badge&labelColor=1a1a2e&logo=node.js&logoColor=22c55e" alt="Backend" />
+<br/><br/>
+<img height="48" src="https://img.shields.io/badge/DATABASES-MongoDB_%26_MySQL-a855f7?style=for-the-badge&labelColor=1a1a2e&logo=mongodb&logoColor=a855f7" alt="Databases" />
+<img height="48" src="https://img.shields.io/badge/FUNDAMENTALS-Algorithms-ff9f1c?style=for-the-badge&labelColor=1a1a2e&logo=leetcode&logoColor=ff9f1c" alt="Fundamentals" />
+<br/><br/>
+<img height="48" src="https://img.shields.io/badge/GOAL-Full_Stack_Engineer-ff4d94?style=for-the-badge&labelColor=1a1a2e&logo=rocket&logoColor=ff4d94" alt="Goal" />
 
 </div>
 
