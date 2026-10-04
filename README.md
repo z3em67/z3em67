@@ -24,12 +24,12 @@
 
 <div >
 
-<h3>✨ Hello, I'm Abdelrahman ✨</h3>
+<h3>✨ Hello, I'm Abd Elrahman ✨</h3>
 <h3> CS Student 🎓 </h3>
 <h3> Full Stack Developer 💻 </h3>
-<h3>I build complete web applications 🌟<br/>
-from responsive interfaces to APIs and databases ⚙️🗄️<br/>
-and I grow by shipping real-world projects 🚀</h3>
+<h3>I build complete web applications 🌟<h3/>
+<h3>from responsive interfaces to APIs and databases ⚙️🗄️<h3/>
+<h3>and I grow by shipping real-world projects 🚀</h3>
 
 </div>
 
