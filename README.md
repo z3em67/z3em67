@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdelrahman%20Elsayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20in%20the%20Making&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=👋+Hi%2C+I'm+Abdelrahman;💻+CS+Student+%26+Web+Developer;⚙️+Learning+Node.js+%26+Backend;🚀+Building+real-world+projects;🎯+Goal%3A+Professional+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Abdelrahman;CS+Student+%26+Web+Developer;Learning+Node.js+%26+Backend;Building+real-world+projects;Goal%3A+Professional+Backend+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=z3em67&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://visitcount.itsvg.in/api?id=z3em67&icon=0&color=0" alt="views" />
 <img src="https://img.shields.io/github/followers/z3em67?style=for-the-badge&logo=github&color=181717" alt="followers" />
 <img src="https://img.shields.io/github/stars/z3em67?style=for-the-badge&logo=github&color=f5c542" alt="stars" />
 
@@ -19,8 +19,6 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 💫 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/z3em67/z3em67/main/assets/coding.gif" alt="" onerror="this.style.display='none'" />
 
 ```js
 const abdelrahman = {
@@ -81,10 +79,6 @@ const abdelrahman = {
 
 <img src="https://streak-stats.demolab.com?user=z3em67&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=z3em67&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
-
 </div>
 
 <br/>
@@ -94,7 +88,7 @@ const abdelrahman = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=z3em67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=z3em67&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
 
 </div>
 
