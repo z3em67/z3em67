@@ -1,27 +1,145 @@
-# 💫 About Me:
-👨‍💻 CS Student & Web Developer<br><br>💡 Learning Node.js & Backend<br><br>🚀 Building small real-world projects<br><br>🧠 Improving Problem Solving skills<br><br>⚙ Love working with JavaScript & Python<br><br>🛠 Always learning something new<br><br>🎯 Goal: Become a professional Backend Developer
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdelrahman%20Elsayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20in%20the%20Making&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdelrahman.elsayed.792197) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo77/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayed0377@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=👋+Hi%2C+I'm+Abdelrahman;💻+CS+Student+%26+Web+Developer;⚙️+Learning+Node.js+%26+Backend;🚀+Building+real-world+projects;🎯+Goal%3A+Professional+Backend+Developer" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=z3em67&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=z3em67&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=z3em67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=z3em67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=z3em67&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/z3em67?style=for-the-badge&logo=github&color=181717" alt="followers" />
+<img src="https://img.shields.io/github/stars/z3em67?style=for-the-badge&logo=github&color=f5c542" alt="stars" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=z3em67&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=z3em67&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="320" src="https://raw.githubusercontent.com/z3em67/z3em67/main/assets/coding.gif" alt="" onerror="this.style.display='none'" />
+
+```js
+const abdelrahman = {
+  role: "CS Student & Web Developer 👨‍💻",
+  currentlyLearning: ["Node.js", "Backend Architecture", "Databases"],
+  building: "Small real-world projects 🚀",
+  improving: "Problem Solving 🧠",
+  favoriteLanguages: ["JavaScript", "Python"],
+  mindset: "Always learning something new 🛠",
+  goal: "Become a professional Backend Developer 🎯",
+};
+```
+
+<br/>
+
+- 🔭 **Working on:** real-world projects that sharpen my backend skills
+- 🌱 **Learning:** Node.js, Express, REST APIs, MongoDB & MySQL
+- 🧩 **Practicing:** data structures, algorithms & problem solving
+- 💬 **Ask me about:** JavaScript, Python, web development
+- ⚡ **Fun fact:** I turn coffee into code ☕
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&perline=5" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&perline=4" alt="frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" alt="backend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="tools" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=z3em67&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3em67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=z3em67&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=z3em67&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=z3em67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3em67/z3em67/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3em67/z3em67/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/z3em67/z3em67/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ QUOTE ═══════════════ -->
+## ✍️ Dev Quote of the Moment
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdo77/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aayed0377@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/abdelrahman.elsayed.792197"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+<br/><br/>
+
+<i>⭐ If you like something here, drop a star. It keeps me motivated!</i>
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
