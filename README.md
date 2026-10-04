@@ -139,10 +139,16 @@ and I grow by shipping real-world projects 🚀</h3>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdo77/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aayed0377@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/abdelrahman.elsayed.792197"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-
+<a href="https://www.linkedin.com/in/abdo77/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aayed0377@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="YOUR_PORTFOLIO_LINK"><img height="40" src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="YOUR_WHATSAPP_LINK"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<br/><br/>
+<a href="YOUR_TELEGRAM_LINK"><img height="40" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="YOUR_DISCORD_LINK"><img height="40" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="YOUR_X_LINK"><img height="40" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="YOUR_UPWORK_OR_FREELANCE_LINK"><img height="40" src="https://img.shields.io/badge/Freelance-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance" /></a>
+ 
 <br/><br/>
 
 <i>⭐ If you like something here, drop a star. It keeps me motivated!</i>
